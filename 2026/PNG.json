@@ -1,0 +1,219 @@
+{
+  "year": 2026,
+  "state": "PNG",
+  "school_group": "B",
+  "public_holidays": [
+    {
+      "date": "2026-01-01",
+      "name": "Tahun Baharu 2026",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-02-01",
+      "name": "Hari Thaipusam",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-02-17",
+      "name": "Tahun Baharu Cina",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-02-18",
+      "name": "Tahun Baharu Cina (Hari Kedua)",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-03-07",
+      "name": "Hari Nuzul Al-Quran",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-03-20",
+      "name": "Cuti Umum Tambahan Hari Raya Aidilfitri",
+      "type": "additional",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/03/PUB-111_2026.pdf"
+    },
+    {
+      "date": "2026-03-21",
+      "name": "Hari Raya Puasa",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-03-22",
+      "name": "Hari Raya Puasa (Hari Kedua)",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Hari Pekerja",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-05-27",
+      "name": "Hari Raya Qurban",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-05-31",
+      "name": "Hari Wesak",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-06-01",
+      "name": "Hari Keputeraan Rasmi Seri Paduka Baginda Yang di-Pertuan Agong",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-06-02",
+      "name": "Cuti Gantian Hari Wesak",
+      "type": "replacement",
+      "is_tentative": false,
+      "source_url": "https://www.mkn.gov.my/web/ms/2026/05/20/%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%A7%F0%9D%97%9C-%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A0-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-i-%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9C/"
+    },
+    {
+      "date": "2026-06-17",
+      "name": "Awal Muharam (Maal Hijrah)",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-07-07",
+      "name": "Hari Ulang Tahun Perisytiharan Tapak Warisan Dunia",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-07-11",
+      "name": "Hari Jadi Yang di-Pertua Negeri Pulau Pinang",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-08-25",
+      "name": "Hari Keputeraan Nabi Muhammad S.A.W. (Maulidur Rasul)",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-08-31",
+      "name": "Hari Kebangsaan",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-09-16",
+      "name": "Hari Malaysia",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-11-08",
+      "name": "Hari Deepavali",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Hari Krismas",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    }
+  ],
+  "school_holidays": [
+    {
+      "name": "Cuti Tambahan Tahun Baharu Cina",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-16",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Tahun Baharu Cina",
+      "start_date": "2026-02-19",
+      "end_date": "2026-02-20",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Hari Raya Aidilfitri",
+      "start_date": "2026-03-18",
+      "end_date": "2026-03-18",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Kenyataan%20Media/KM2026/KM%20KPM%20Berhubung%20Cuti%20Tambahan%20Bersempena%20Hari%20Raya%20Aidilfitri.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Hari Raya Aidilfitri",
+      "start_date": "2026-03-19",
+      "end_date": "2026-03-20",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    },
+    {
+      "name": "Cuti Penggal 1",
+      "start_date": "2026-03-21",
+      "end_date": "2026-03-29",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    },
+    {
+      "name": "Cuti Pertengahan Tahun",
+      "start_date": "2026-05-23",
+      "end_date": "2026-06-07",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    },
+    {
+      "name": "Cuti Penggal 2",
+      "start_date": "2026-08-29",
+      "end_date": "2026-09-06",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Hari Deepavali",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    },
+    {
+      "name": "Cuti Akhir Persekolahan",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-31",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+    }
+  ]
+}
