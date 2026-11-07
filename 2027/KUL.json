@@ -1,0 +1,205 @@
+{
+  "year": 2027,
+  "state": "KUL",
+  "school_group": "B",
+  "public_holidays": [
+    {
+      "date": "2027-01-01",
+      "name": "Tahun Baharu",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-01-22",
+      "name": "Hari Thaipusam",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-02-01",
+      "name": "Hari Wilayah Persekutuan",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-02-06",
+      "name": "Tahun Baharu Cina",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-02-07",
+      "name": "Tahun Baharu Cina (Hari Kedua)",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-02-24",
+      "name": "Hari Nuzul Al-Quran",
+      "type": "state",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-03-10",
+      "name": "Hari Raya Puasa",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-03-11",
+      "name": "Hari Raya Puasa (Hari Kedua)",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-05-01",
+      "name": "Hari Pekerja",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-05-17",
+      "name": "Hari Raya Qurban",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-05-20",
+      "name": "Hari Wesak",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-06-06",
+      "name": "Awal Muharam (Maal Hijrah)",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-06-07",
+      "name": "Hari Keputeraan Rasmi Seri Paduka Baginda Yang di-Pertuan Agong",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-08-15",
+      "name": "Hari Keputeraan Nabi Muhammad S.A.W. (Maulidur Rasul)",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-08-31",
+      "name": "Hari Kebangsaan",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-09-16",
+      "name": "Hari Malaysia",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-10-28",
+      "name": "Hari Deepavali",
+      "type": "federal",
+      "is_tentative": true,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    },
+    {
+      "date": "2027-12-25",
+      "name": "Hari Krismas",
+      "type": "federal",
+      "is_tentative": false,
+      "source_url": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
+    }
+  ],
+  "school_holidays": [
+    {
+      "name": "Cuti Tambahan Tahun Baharu Cina",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Tahun Baharu Cina",
+      "start_date": "2027-02-09",
+      "end_date": "2027-02-12",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Penggal 1",
+      "start_date": "2027-03-06",
+      "end_date": "2027-03-14",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Hari Raya Qurban",
+      "start_date": "2027-05-18",
+      "end_date": "2027-05-19",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Hari Wesak",
+      "start_date": "2027-05-21",
+      "end_date": "2027-05-21",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Pertengahan Tahun",
+      "start_date": "2027-05-22",
+      "end_date": "2027-06-06",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Penggal 2",
+      "start_date": "2027-08-28",
+      "end_date": "2027-09-05",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Hari Deepavali",
+      "start_date": "2027-10-27",
+      "end_date": "2027-10-27",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Tambahan Hari Deepavali",
+      "start_date": "2027-10-29",
+      "end_date": "2027-10-29",
+      "type": "festive",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    },
+    {
+      "name": "Cuti Akhir Persekolahan",
+      "start_date": "2027-12-04",
+      "end_date": "2027-12-31",
+      "type": "term",
+      "source_url": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%20Tahun%202027.pdf"
+    }
+  ]
+}
